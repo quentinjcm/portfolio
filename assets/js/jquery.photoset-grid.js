@@ -19,7 +19,7 @@
       // set the width of the container
       width         : '100%',
       // the space between the rows / columns
-      gutter        : '0px',
+      gutter        : '5px',
 
       // Optional
       // wrap the images in a vs. div and link to the data-highres images
@@ -36,7 +36,7 @@
       // set border color
       borderColor: '#000000',
       // set border radius
-      borderRadius: '0',
+      borderRadius: '5',
       // if true it will remove "double" borders
       borderRemoveDouble: false,
 
@@ -509,4 +509,3 @@
 
 
 })( jQuery, window, document );
-

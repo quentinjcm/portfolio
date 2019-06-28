@@ -3,6 +3,7 @@
 a {
 	text-decoration: none;
 	color: $link-color;
+	font-weight: bold;
 
 	&:visited {
 		color: lighten($link-color, 20);
@@ -207,7 +208,7 @@ svg:not(:root) {
     }
 
     img:hover {
-        opacity: 0.8;
+        opacity: 1.0;
     }
 
     h1, a, div {
@@ -315,6 +316,8 @@ header .entry-meta {
 
     a:link{
         color: lighten($text-color,60);
+
+
     }
 
 	a:hover {
@@ -352,4 +355,9 @@ h1 {
 	@media #{$medium} {
         font-size: 32px;
 	}
+}
+
+table{
+	table-layout: fixed;
+	width: 40%;
 }
