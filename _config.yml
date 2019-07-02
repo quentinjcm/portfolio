@@ -1,7 +1,8 @@
 title:            Quentin Corker-Marin
 description:      Poetfilio of Quentin Corker-Marin
 copyright:        Quentin Corker-Marin
-url: # add your custom site url (format: https://example.com)
+url:              https://quentincorkermarin.xyz
+baseurl:          ""
 
 
 future:      false  # publish future dated posts --  true, false (default)
