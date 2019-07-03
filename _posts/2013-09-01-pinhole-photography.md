@@ -15,9 +15,9 @@ An ongoing exploration of pinhole photography and darkroom experiments.
 
 <center>
     <div class="photoset-grid-custom" data-layout="322232">
-        <img src="/images/pinhole/cyanotypes/Scan_2_cropped_half.png">
-        <img src="/images/pinhole/cyanotypes/Scan_0_cropped_half.png">
-        <img src="/images/pinhole/cyanotypes/Scan_1_cropped_half.png">
+        <img src="/images/pinhole/cyanotypes/Scan_2_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_2_cropped_half.png">
+        <img src="/images/pinhole/cyanotypes/Scan_0_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_0_cropped_half.png">
+        <img src="/images/pinhole/cyanotypes/Scan_1_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_1_cropped_half.png">
 
         <img src="/images/pinhole/flecked_01_cropped_half.png">
         <img src="/images/pinhole/wax_03_cropped_half.png">
