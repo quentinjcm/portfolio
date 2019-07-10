@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Quentin is a London based 3D artist and film maker. He studied Computer Visualisation and Animation at Bournemouth University, graduating in 2017 and has been working at Glassworks since then. 
+I am a London based 3D artist and film maker. I studied Computer Visualisation and Animation at Bournemouth University, graduating in 2017 and have been working at Glassworks since then.
 
-You can find his CV and showreel [here](/cv/)  
+You can find my CV and showreel [here](/cv/)  
 
-<quentinjcm@hotmail.com>
+If you have interesting projects you think I could be useful for, or just want to get in touch, pleaseemail me at <quentinjcm@hotmail.com>
