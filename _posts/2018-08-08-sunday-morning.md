@@ -20,7 +20,7 @@ Sunday Morning is an experimental film exploring a trip down a tidal river early
 >There isn't any wind yet, there will be later though.  
 >It's very calm out here.  
 >Definitely worth getting up so early.  
->A fog horn goes off in the distance. 
+>A fog horn goes off in the distance.
 
 
 The film is generated in real time on [Shadertoy](https://www.shadertoy.com/). You can view the real time version [here](https://www.shadertoy.com/view/Mtdyzl) where you can also explore the code that generates the film.
