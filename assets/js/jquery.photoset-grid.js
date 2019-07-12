@@ -138,11 +138,16 @@
               }
               var highres;
               // If a highres image exists link it up!
-              if($(this).attr('data-highres')){
-                  highres = $(this).attr('data-highres');
+
+              if($(this).attr('data-highres') == "True"){
+                  highres = $(this).attr('src').replace("_proxy", "");
+                  console.log("using highres");
+                  console.log(highres);
               } else {
                   highres = $(this).attr('src');
+                  console.log("using proxy");
               }
+
               $(this).wrapAll('<a href="' + highres + '"' + title + ' class="photoset-cell highres-link" />');
               if(options.borderActive){
                 $(this).wrapAll('<span class="photoset-content-border" />');
@@ -254,7 +259,7 @@
                   }
 
                   if(parseInt($img.css('width'), 10) > options.lowresWidth && $img.attr('data-highres')){
-                      $img.attr('src', $img.attr('data-highres'));
+                      $img.attr('src', $img.attr('src').replace("_proxy", ""));
                   }
                 });
 

@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Pinhole Photography
-featured-image: /images/pinhole/cyanotypes/Scan_1_banner_half.png
+featured-image: /images/pinhole/cyanotypes/Scan_1_banner_half_proxy.png
 tags: [photography, art, ongoing]
 date-string: September 2013 - Present
 ---
@@ -15,25 +15,25 @@ An ongoing exploration of pinhole photography and darkroom experiments.
 
 <center>
     <div class="photoset-grid-custom" data-layout="322232">
-        <img src="/images/pinhole/cyanotypes/Scan_2_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_2_cropped_half.png">
-        <img src="/images/pinhole/cyanotypes/Scan_0_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_0_cropped_half.png">
-        <img src="/images/pinhole/cyanotypes/Scan_1_cropped_half_proxy.png" data-highres="/images/pinhole/cyanotypes/Scan_1_cropped_half.png">
+        <img src="/images/pinhole/cyanotypes/Scan_2_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/cyanotypes/Scan_0_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/cyanotypes/Scan_1_cropped_half_proxy.png" data-highres="True">
 
-        <img src="/images/pinhole/flecked_01_cropped_half.png">
-        <img src="/images/pinhole/wax_03_cropped_half.png">
+        <img src="/images/pinhole/flecked_01_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/wax_03_cropped_half_proxy.png" data-highres="True">
 
-        <img src="/images/pinhole/water_portrait_03_cropped_half.png">
-        <img src="/images/pinhole/misc_00_cropped_half.png">
+        <img src="/images/pinhole/water_portrait_03_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/misc_00_cropped_half_proxy.png" data-highres="True">
 
-        <img src="/images/pinhole/portrait_01_cropped_half.png">    
-        <img src="/images/pinhole/portrait_03_cropped_half.png">
+        <img src="/images/pinhole/portrait_01_cropped_half_proxy.png" data-highres="True">    
+        <img src="/images/pinhole/portrait_03_cropped_half_proxy.png" data-highres="True">
 
-        <img src="/images/pinhole/water_01_cropped_half.png">
-        <img src="/images/pinhole/water_12_cropped_half.png">
-        <img src="/images/pinhole/water_11_cropped_half.png">
+        <img src="/images/pinhole/water_01_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/water_12_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/water_11_cropped_half_proxy.png" data-highres="True">
 
-        <img src="/images/pinhole/beach_00_cropped_half.png">
-        <img src="/images/pinhole/ch_00_cropped_half.png">
+        <img src="/images/pinhole/beach_00_cropped_half_proxy.png" data-highres="True">
+        <img src="/images/pinhole/ch_00_cropped_half_proxy.png" data-highres="True">
     </div>
 </center>
 

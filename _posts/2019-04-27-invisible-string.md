@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Dancing With Invisible String
-featured-image: /images/invisible-string/banner_03.png
+featured-image: /images/invisible-string/banner_03_proxy.png
 tags: [art, water, film, barbican]
 date-string: April 2019
 ---
