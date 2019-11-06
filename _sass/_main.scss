@@ -91,8 +91,7 @@ hr {
     padding: 0;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #fff;
+    border-top: 1px solid lighten($bg-color, 40);
 }
 
 /*--- FIGURES & IMAGES ------------------------------------------------------*/
@@ -260,7 +259,7 @@ header .entry-meta {
 	}
 
 	article {
-		background-color: #fafafa;
+		background-color: $box-color;
 		//box-shadow: 0 0 0 0, 0 1px 1px rgba($base-color,0.2);
 		border-radius: 3px;
 		margin-bottom: 20px;
@@ -271,9 +270,11 @@ header .entry-meta {
 		.featured-image {
 				display:block;
 	        	margin:-25px -15px;
-	        	padding: 0px 0px 20px 0px;
+	        	padding: 0px 0px 0px 0px;
 	        }
-	    }
+	  }
+
+
 
 		@media #{$medium} {
 			padding: 30px;
@@ -281,7 +282,7 @@ header .entry-meta {
 			.featured-image {
 				display:block;
 	        	margin:-30px -30px;
-	        	padding: 0px 0px 30px 0px;
+	        	padding: 0px 0px 0px 0px;
 	        }
 		}
 
@@ -290,9 +291,10 @@ header .entry-meta {
 			padding: 50px 80px;
 
 			.featured-image {
+				text-align: center;
 				display:block;
 	        	margin:-50px -80px;
-	        	padding: 0px 0px 50px 0px;
+	        	padding: 0px 0px 0px 0px;
 	        }
 		}
 
@@ -340,7 +342,7 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background-color: #f2f2f2;
+	background-color: $bg-color;
     margin-top: 0px + $doc-line-height;
     font-size: 0px + $doc-font-size;
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Pinhole Photography
+title: Experimental Photography
 featured-image: /images/pinhole/cyanotypes/Scan_1_banner_half_proxy.png
 tags: [photography, art, ongoing]
 date-string: September 2013 - Present

@@ -7,8 +7,6 @@ tags: [coding, shaders, shadertoy, sea, home, morning, art]
 date-string: August 2018
 ---
 
-Sunday Morning is an experimental film exploring a trip down a tidal river early on a Sunday morning.
-
 
 <center>
 <div style="position:relative;padding-top:56.25%;">
@@ -21,6 +19,9 @@ Sunday Morning is an experimental film exploring a trip down a tidal river early
 >It's very calm out here.  
 >Definitely worth getting up so early.  
 >A fog horn goes off in the distance.
+
+
+Sunday Morning is an experimental film exploring a trip down a tidal river early on a Sunday morning.
 
 
 The film is generated in real time on [Shadertoy](https://www.shadertoy.com/). You can view the real time version [here](https://www.shadertoy.com/view/Mtdyzl) where you can also explore the code that generates the film.
