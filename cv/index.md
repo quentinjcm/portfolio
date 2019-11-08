@@ -43,7 +43,7 @@ Swedish glider pilots to the world championships in Leszno, Poland.
 : British A-Levels, Christs Hospital, Horsham
 : | *Further Mathematics* | **A*** |
 | *Mathematics* | **A*** |
-| *Physics* | **A*** |
+| *Physics* | **A** |
 
 **2012-2014**
 : Cambridge Pre-U Certificate - Christs Hospital, Horsham
