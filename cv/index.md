@@ -4,12 +4,16 @@ title: CV
 date-string: 23 JUNE, 2019
 ---
 
+
 <center>
 <div style="position:relative;padding-top:56.25%;">
-<iframe src="https://player.vimeo.com/video/222176310?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+<iframe src="https://player.vimeo.com/video/386360064?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
 </div>
 </center>
 
+
+## Showreel
+A private link is available on request.
 
 ## Employment
 **Sept 2017 - Present**
@@ -49,6 +53,7 @@ Swedish glider pilots to the world championships in Leszno, Poland.
 : Cambridge Pre-U Certificate - Christs Hospital, Horsham
 : | *Art* | **Distinction 1** |
 
+<!--
 **2012-2013**
 : British AS-Levels - Christs Hospital, Horsham
 : | *D&T Product Design* | **A** |
@@ -65,6 +70,7 @@ Swedish glider pilots to the world championships in Leszno, Poland.
 | *Maths* | **A*** |
 | *Physics* | **A*** |
 | *Spanish* | **A** |
+-->
 
 ## Exhibitions
 **2019**
