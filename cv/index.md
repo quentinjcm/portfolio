@@ -8,7 +8,7 @@ date-string: 23 JUNE, 2019
 **Sept 2017 - Present**
 : Glassworks Ltd., London
 : *3D Artist*
-: Working as a VFX generalist on adverts, music videos and TV using Houdini/Redshift, Nuke and developing pipeline tools in Python. Occasionally required to creative direct projects and work as a VFX supervisor on set.
+: Working as a VFX generalist on adverts, music videos and TV using Houdini/Redshift, Nuke and developing pipeline tools in Python. Occasionally required to creatively direct projects and work as a VFX supervisor on set.
 
 **March 2016**
 : Thing Technologies, New York, Frankfurt
