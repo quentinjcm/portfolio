@@ -8,9 +8,9 @@ date-string: 23 JUNE, 2019
 **Sept 2017 - Present**
 : Glassworks Ltd., London
 : *3D Artist*
-: Some description
+: Working as a VFX generalist on adverts, music videos and TV using Houdini/Redshift, Nuke and developing pipeline tools in Python. Occasionally required to creative direct projects and work as a VFX supervisor on set.
 
-**March 2017**
+**March 2016**
 : Thing Technologies, New York, Frankfurt
 : *3D CG Artist*
 : Freelance work translating 2D logo designs into 3D and producing animations, working closely
@@ -25,7 +25,7 @@ life and advise them on assignments they are given.
 **June 2014**
 : Just Marin AB, 273 98 Smedstorp, Sweden
 : *Assistant Camera on Segelflyg - Sveriges flygande talanger*
-: work in Sweden and Poland for a Swedish documentary film following 3 young
+: Work in Sweden and Poland for a Swedish documentary film following 3 young
 Swedish glider pilots to the world championships in Leszno, Poland.
 
 ## Education
