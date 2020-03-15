@@ -31,6 +31,7 @@ Swedish glider pilots to the world championships in Leszno, Poland.
 ## Education
 **2014-2017**
 : BA Hons in Computer Visualisation and Animation (1st) - Bournemouth University, Bournemouth
+: A broad course where I was required to work on projects ranging from character design to C++ software development and mathematics.
 
 **2012-2014**
 : British A-Levels, Christs Hospital, Horsham
