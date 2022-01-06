@@ -10,6 +10,11 @@ date-string: 23 JUNE, 2019
 : *Senior Technical Artist*
 : Sitting between the creative and technical teams working on concept visualisation and development, Houdini to real time pipelines and 3D animation and look-dev for video installations.
 
+**Dec 2018**
+: Complete Fabrication
+: *Freelance 3D Artist*
+: Creating previs animations for the installation of Infinity Blue for Studio Swine at the Eden Project
+
 **Sept 2017 - Nov 2020**
 : Glassworks Ltd., London
 : *3D Artist*
@@ -26,12 +31,6 @@ with the client to retain initial themes and suggesting alternative versions.
 : *Peer Assisted Learning Leader*
 : Working with first year animation students to facilitate learning, help them settle into university
 life and advise them on assignments they are given.
-
-**June 2014**
-: Just Marin AB, 273 98 Smedstorp, Sweden
-: *Assistant Camera on Segelflyg - Sveriges flygande talanger*
-: Work in Sweden and Poland for a Swedish documentary film following 3 young
-Swedish glider pilots to the world championships in Leszno, Poland.
 
 ## Education
 **2014-2017**
