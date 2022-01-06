@@ -91,7 +91,7 @@ hr {
     padding: 0;
     height: 1px;
     border: 0;
-    border-top: 1px solid lighten($bg-color, 40);
+    border-top: 1px solid lighten($bg-color, 0);
 }
 
 /*--- FIGURES & IMAGES ------------------------------------------------------*/
@@ -183,6 +183,7 @@ svg:not(:root) {
 .entry-content {
     font-size: 16px;
     line-height: 26px;
+		font-weight: 50;
 }
 
 .entry-title {
@@ -342,6 +343,7 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	font-weight: 50;
 	background-color: $bg-color;
     margin-top: 0px + $doc-line-height;
     font-size: 0px + $doc-font-size;

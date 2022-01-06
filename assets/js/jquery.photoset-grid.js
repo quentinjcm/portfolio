@@ -204,7 +204,7 @@
               'display': 'block',
               'border': options.borderWidth + ' solid ' + options.borderColor,
               'border-radius': options.borderRadius,
-              'overflow': 'hidden',
+              //'overflow': 'hidden',
               '-webkit-box-sizing': 'border-box',
               '-moz-box-sizing': 'border-box',
               'box-sizing': 'border-box'

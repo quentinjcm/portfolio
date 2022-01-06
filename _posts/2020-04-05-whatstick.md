@@ -22,17 +22,17 @@ Project Isolate pairs artists with musicians, giving them 24 hours to make a fil
 : Music by Benjamin Marrington-Reeve
 : Visuals by Quentin Corker-Marin & Felix Marrington Reeve
 : Additional Photography from Benjamin Hawkyard
-: Audio responses provided by:
-:    Bonnie Schwarz
-:    Hebe PC
-:    Edmund Phillips
-:    Laura Dalby
-:    Irene Issitt
-:    Sophie Crawford
-:    Mary Morris
-:    Sophie Jade Procter
-:    Christopher Kent
-:    Katie Marriott
-:    Nick Dalby
-:    Jessica Dalby
-:    Andy Smith
+: Audio responses provided by:|
+| Bonnie Schwarz
+| Hebe PC
+| Edmund Phillips
+| Laura Dalby
+| Irene Issitt
+| Sophie Crawford
+| Mary Morris
+| Sophie Jade Procter
+| Christopher Kent
+| Katie Marriott
+| Nick Dalby
+| Jessica Dalby
+| Andy Smith

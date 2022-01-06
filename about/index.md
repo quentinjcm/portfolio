@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-I am a London based 3D artist and film maker. I studied Computer Visualisation and Animation at Bournemouth University, graduating in 2017. I am currently working as a senior technical artist at Marshmallow Laser Feast.
+I am a London based 3D artist and film maker currently working as a Senior Technical Artist at Marshmallow Laser Feast. I studied Computer Visualisation and Animation at Bournemouth University, graduating in 2017.
 
-If you have interesting projects you think I could be useful for, or just want to get in touch, or want a private link to my showreel, please email me at <quentinjcm@hotmail.com>. You can also find my CV [here](/cv/).
+If you would like to get in touch, or want a the password to my showreel, please email me at <quentinjcm@hotmail.com>. You can also find my CV [here](/cv/).

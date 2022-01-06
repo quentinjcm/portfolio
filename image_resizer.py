@@ -1,9 +1,7 @@
 import os
 from PIL import Image
-from resizeimage import resizeimage
 
-BASE_PATH = "./images"
-
+BASE_PATH = "./images/home-developing"
 def main():
 	for root, dirs, files in os.walk(BASE_PATH):
 		for in_name in files:
@@ -19,9 +17,9 @@ def main():
 			with open(in_path, "r+b") as f:
 				with Image.open(f) as im:
 					height, width = im.size
-					width /= 2.0
-					height /= 2.0
+					width /= 3.0
+					height /= 3.0
 					im.thumbnail((width, height), Image.ANTIALIAS)
 					im.save(out_path, im.format)
-			
+
 main()

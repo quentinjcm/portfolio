@@ -18,12 +18,12 @@ $doc-line-height                 : 26;
 /*--- COLORS ----------------------------------------------------------------*/
 
 $base-color                      : rgba(#222,0.8);
-$body-color                      : #202020;
-$text-color                      : #808080;
-$border-color                    : lighten($base-color,60);
+$body-color                      : #101010;
+$text-color                      : #505050;
+$border-color                    : $base-color;
 $link-color                      : #909090;
-$bg-color                        : #4f4f4f;
-$box_color                       : #dfdfdf;
+$bg-color                        : #f5f5f5;
+$box_color                       : #f5f5f5;
 
 /*--- SCREEN SIZES ----------------------------------------------------------*/
 
