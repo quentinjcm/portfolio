@@ -9,33 +9,40 @@ date-string: 23 JUNE, 2019
 : Marshmallow Laser Feast, London
 : *Senior Technical Artist*
 : Sitting between the creative and technical teams working on concept visualisation and development, Houdini to real time pipelines and 3D animation and look-dev for video installations.
-
-**Dec 2018**
-: Complete Fabrication
-: *Freelance 3D Artist*
-: Creating previs animations for the installation of Infinity Blue for Studio Swine at the Eden Project
+<br/><br/>
 
 **Sept 2017 - Nov 2020**
 : Glassworks Ltd., London
 : *3D Artist*
 : Working as a VFX generalist on adverts, music videos and TV using Houdini/Redshift, Nuke and developing pipeline tools in Python. Occasionally required to creatively direct projects and work as a VFX supervisor on set.
+<br/><br/>
+
+**Dec 2018**
+: Complete Fabrication
+: *Freelance 3D Artist*
+: Creating previs animations for the installation of Infinity Blue for Studio Swine at the Eden Project
+<br/><br/>
 
 **March 2016**
 : Thing Technologies, New York, Frankfurt
 : *3D CG Artist*
 : Freelance work translating 2D logo designs into 3D and producing animations, working closely
 with the client to retain initial themes and suggesting alternative versions.
+<br/><br/>
 
 **Sept 2015 - June 2016**
 : Bournemouth university
 : *Peer Assisted Learning Leader*
 : Working with first year animation students to facilitate learning, help them settle into university
 life and advise them on assignments they are given.
+<br/><br/>
 
 ## Education
 **2014-2017**
 : BA Hons in Computer Visualisation and Animation (1st) - Bournemouth University, Bournemouth
 : A broad course where I was required to work on projects ranging from character design to C++ software development and mathematics.
+<br/><br/>
+
 
 **2012-2014**
 : British A-Levels, Christs Hospital, Horsham
@@ -43,6 +50,7 @@ life and advise them on assignments they are given.
 | *Mathematics* | **A*** |
 | *Physics* | **A** |
 
+<br/><br/>
 **2012-2014**
 : Cambridge Pre-U Certificate - Christs Hospital, Horsham
 : | *Art* | **Distinction 1** |
