@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-BASE_PATH = "./images/home-developing"
+BASE_PATH = "./images/sanctuary"
 def main():
 	for root, dirs, files in os.walk(BASE_PATH):
 		for in_name in files:

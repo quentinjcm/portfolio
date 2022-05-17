@@ -5,7 +5,7 @@ date-string: 23 JUNE, 2019
 ---
 
 ## Employment
-**Nov 2020 - Present**
+**Nov 2020 - June 2022**
 : Marshmallow Laser Feast, London
 : *Senior Technical Artist*
 : Sitting between the creative and technical teams working on concept visualisation and development, Houdini to real time pipelines and 3D animation and look-dev for video installations.
@@ -43,7 +43,7 @@ life and advise them on assignments they are given.
 : A broad course where I was required to work on projects ranging from character design to C++ software development and mathematics.
 <br/><br/>
 
-
+<!--
 **2012-2014**
 : British A-Levels, Christs Hospital, Horsham
 : | *Further Mathematics* | **A*** |
@@ -55,7 +55,7 @@ life and advise them on assignments they are given.
 : Cambridge Pre-U Certificate - Christs Hospital, Horsham
 : | *Art* | **Distinction 1** |
 
-<!--
+
 **2012-2013**
 : British AS-Levels - Christs Hospital, Horsham
 : | *D&T Product Design* | **A** |
