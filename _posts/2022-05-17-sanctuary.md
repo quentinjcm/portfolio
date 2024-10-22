@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Sanctuary of the Unseen Forest
-featured-image: /images/sanctuary/barbican_banner_small.png
+featured-image: /images/sanctuary/barbican_banner.png
 tags: [mlf, art, barbican]
 date-string: May 2022
 ---

@@ -5,6 +5,11 @@ date-string: 23 JUNE, 2019
 ---
 
 ## Employment
+**July 2022 - Present**
+: *Freelance VFX Artist* London
+: Working as a freelance VFX artists across film, TV, commercials and digital art. Studios worked for include Glassworks, Jellyfish Pictures, Marshmallow Laser Feast, Coffee & TV and Time Based Arts.
+<br/><br/>
+
 **Nov 2020 - June 2022**
 : Marshmallow Laser Feast, London
 : *Senior Technical Artist*
